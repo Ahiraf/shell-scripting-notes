@@ -96,10 +96,11 @@ Now one can successfully run the script using:
 
 
 # 🧾 Example Summary of Commands
-**List supported shells:** ``` cat /etc/shells ```
-**Locate Bash path:** ``` which bash ```
-**Create script file:** ``` touch hello.sh```
-**Edit file:** ``` code hello.sh ``` (or preferred editor)
-**Add execution permission: ```** chmod +x hello.sh```
-**Execute script:** ``` ./hello.sh```
+
+- **List supported shells:** `cat /etc/shells`
+- **Locate Bash path:** `which bash`
+- **Create script file:** `touch hello.sh`
+- **Edit file:** `code hello.sh` *(or preferred editor)*
+- **Add execution permission:** `chmod +x hello.sh`
+- **Execute script:** `./hello.sh`
 
