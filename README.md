@@ -1,4 +1,4 @@
-<img width="1221" height="657" alt="Screenshot 2026-03-31 at 8 37 18 AM" src="https://github.com/user-attachments/assets/79ee4a2a-5f95-4f2a-8f39-5e26c2cc299e" /><img width="870" height="427" alt="Screenshot 2026-03-31 at 8 28 24 AM" src="https://github.com/user-attachments/assets/a4dbd971-7095-4277-b9c5-fff9b98108f0" /># 📌 What is a Shell?
+# 📌 What is a Shell?
 
 A Unix shell is a command-line interpreter. It acts as an interface that reads and executes commands entered directly by the user or read from a pre-written file, which we call a shell script.
 
