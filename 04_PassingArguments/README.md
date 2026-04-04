@@ -24,4 +24,11 @@ echo $@  # This will print all the arguments as a single string.
 <img width="692" height="116" alt="Screenshot 2026-04-04 at 11 10 02 PM" src="https://github.com/user-attachments/assets/497cb9a8-6ea2-4bd6-bf4c-57ac118882ab" />
 
 
+```
+echo $#    #This will print the number of arguments passed to the script.
+```
+
+<img width="695" height="133" alt="Screenshot 2026-04-04 at 11 15 19 PM" src="https://github.com/user-attachments/assets/42734d5d-9b62-4eab-9ca3-817490828cb2" />
+
+
 
