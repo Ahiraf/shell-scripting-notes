@@ -13,9 +13,9 @@
 # Key point is now ${args[0]} will store Fariha as first argument. And ${args[3]} will store nothing as forth argument is not given in the terminal.
 
 
-
 echo $0 $1 $2 $3 ' > echo $1 $2 $3'
 echo $@  # This will print all the arguments as a single string.
 
+echo $#    #This will print the number of arguments passed to the script.
 
 
