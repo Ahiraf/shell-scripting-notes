@@ -3,10 +3,14 @@
 ```
 <img width="721" height="99" alt="Screenshot 2026-04-04 at 10 48 34 PM" src="https://github.com/user-attachments/assets/3efc7624-8c52-466c-b45b-6efa91a33aa8" />
 
+
+
 ```
 #echo $0 $1 $2 $3 ' > echo $1 $2 $3' # $0 will take the script name as the first argument.
 ```
 <img width="721" height="99" alt="Screenshot 2026-04-04 at 10 49 43 PM" src="https://github.com/user-attachments/assets/bcb927c2-8311-4d35-a3b7-f2f42e049743" />
+
+
 
 ```
 # Passing Arguments as an Array:
@@ -17,11 +21,17 @@
 <img width="692" height="119" alt="Screenshot 2026-04-04 at 11 08 29 PM" src="https://github.com/user-attachments/assets/5fe23838-2ea4-4c81-8a2c-af603df4c1ad" />
 
 
+
+
+
 ```
 echo $0 $1 $2 $3 ' > echo $1 $2 $3'
 echo $@  # This will print all the arguments as a single string.
 ```
 <img width="692" height="116" alt="Screenshot 2026-04-04 at 11 10 02 PM" src="https://github.com/user-attachments/assets/497cb9a8-6ea2-4bd6-bf4c-57ac118882ab" />
+
+
+
 
 
 ```
