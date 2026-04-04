@@ -9,24 +9,12 @@ echo $1 $2 $3  ' > echo $1 $2 $3'
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ```
 echo $0 $1 $2 $3 ' > echo $1 $2 $3' # $0 will take the script name as the first argument.
 ```
 <img width="721" height="99" alt="Screenshot 2026-04-04 at 10 49 43 PM" src="https://github.com/user-attachments/assets/bcb927c2-8311-4d35-a3b7-f2f42e049743" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -48,12 +36,6 @@ echo ${args[0]} ${args[1]} ${args[2]} ${args[3]}
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 
@@ -63,12 +45,6 @@ echo $@  # This will print all the arguments as a single string.
 ```
 <img width="692" height="116" alt="Screenshot 2026-04-04 at 11 10 02 PM" src="https://github.com/user-attachments/assets/497cb9a8-6ea2-4bd6-bf4c-57ac118882ab" />
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
