@@ -1,4 +1,4 @@
-<img width="604" height="216" alt="Screenshot 2026-04-05 at 11 13 50 AM" src="https://github.com/user-attachments/assets/5c2a5384-544e-4cd8-becf-48fa47dd9946" /><img width="604" height="216" alt="Screenshot 2026-04-05 at 11 13 50 AM" src="https://github.com/user-attachments/assets/1b12a511-76d5-4a0e-abdf-c9624e12e2ed" /># Labtest-Problems
+# Labtest-Problems
 
 This is my **CSE-336 (sessional)** labtest problem repository.
 This repository contains solutions to some common lab test problems in **Bash scripting**.
