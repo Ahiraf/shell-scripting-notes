@@ -47,3 +47,13 @@
 
 ## Output from the Shell Scipt file : 
 
+```bash
+#if [ $count -eq 10 ]
+#then 
+   #echo "The statement is true"
+#fi
+```
+
+<img width="712" height="89" alt="Screenshot 2026-04-17 at 11 19 06 AM" src="https://github.com/user-attachments/assets/4d3eefad-06c4-4f8b-9cc6-a61831adf41a" />
+
+
