@@ -1,4 +1,4 @@
-<img width="717" height="378" alt="Screenshot 2026-04-18 at 11 01 48 AM" src="https://github.com/user-attachments/assets/522b604e-cb73-4876-b699-910a4d15db12" />## 🐚 Bash Comparison Operators Reference
+## 🐚 Bash Comparison Operators Reference
 
 ---
 
@@ -90,9 +90,9 @@ It helps to understand how to check:
 echo -e "Enter the name of the file: \c"
 read file_name
 ```
-🔹 -e → Enables escape characters
-🔹 \c → Keeps input on the same line
-🔹 Alternative: echo -n can also be used
+🔹 -e → Enables escape characters <br>
+🔹 \c → Keeps input on the same line <br>
+🔹 Alternative: echo -n can also be used <br>
 
 
 
@@ -105,7 +105,7 @@ else
     echo "$file_name not found"
 fi
 ```
-**🔹 -e → Checks if file exists**
+**🔹 -e → Checks if file exists** <br>
 <img width="595" height="165" alt="Screenshot 2026-04-18 at 1 16 34 AM" src="https://github.com/user-attachments/assets/e59c679d-3677-4330-a0a0-c70e08a1c1c2" />
 
 <br>
@@ -116,7 +116,7 @@ fi
 
 
 
-##📄 Regular File Check
+## 📄 Regular File Check
 ```
 if [ -f $file_name ]
 then
@@ -189,11 +189,9 @@ fi
 ### To exit from "cat" cammand I should use ctrl + d on the terminal.
 ### Now if I run : 
 
-<img width="717" height="43" alt="Screenshot 2026-04-18 at 11 02 09 AM" src="https://github.com/user-attachments/assets/bdbd1994-f3a7-411f-a4eb-c58955866ac6" />
+
 <img width="717" height="378" alt="Screenshot 2026-04-18 at 11 01 48 AM" src="https://github.com/user-attachments/assets/abe1f177-e5ff-4da6-b59a-c64b3ff69467" />
-
-
-![Uploading Screenshot 2026-04-18 at 11.02.09 AM.png…]()
+<img width="717" height="43" alt="Screenshot 2026-04-18 at 11 02 09 AM" src="https://github.com/user-attachments/assets/bdbd1994-f3a7-411f-a4eb-c58955866ac6" />
 
 
 <br>
